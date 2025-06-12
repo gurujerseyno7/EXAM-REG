@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #286090;
+  padding: 0 !important;
+  height: 100px;
+
+  .navbar-header-content {
+    .navbar-headers {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      .navbar-header1 {
+        color: #ffffff;
+        text-decoration: underline;
+      }
+      .navbar-header2 {
+        color: #ffffff;
+      }
+    }
+    align-items: center;
+    display: flex;
+    gap: 250px;
+  }
+}

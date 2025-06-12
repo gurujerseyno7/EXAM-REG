@@ -1,0 +1,16 @@
+.footer-container {
+  background-color: #286090;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .footer-contents {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    .footer-details {
+      color: #ffffff;
+      font-size: 13px;
+    }
+  }
+}
